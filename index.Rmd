@@ -38,13 +38,13 @@ Uno de los objetivos de la Psicología Social es explicar qué lleva a las perso
 
 Sin embargo, el comportamiento prosocial también puede conllevar culpar a las víctimas o que el motivo de la ayuda sea egoísta o simplemente sentirse mejor.  
 
-## 1. Comportamiento prosocial, conducta de ayuda, altruismo y coraje civil
+# 1. Comportamiento prosocial, conducta de ayuda, altruismo y coraje civil
 
 La **conducta prosocial** es una amplia categoría de actos que son definidos por la cultura en la que vivimos como beneficiosos para otras personas (ayudar a una persona que lo necesita, ofrecerse voluntario para una buena causa) y para la sociedad en general (proteger el medio ambiente).  
 
 La conducta prosocial no requiere que el objetivo de la conducta sea el bienestar propio, sino que lo que importa es la aprobación de los demás, un hecho que convierte al comportamiento prosocial en un fenómeno normativo (Pfattheicher et al., 2022).  
 
-### Subcategorías de la conducta prosocial
+#### Subcategorías de la conducta prosocial
 Para distinguir entre los diferentes tipos de actos prosociales, hay cuatro subcategorías:
 
 #### Conducta de ayuda
@@ -143,7 +143,7 @@ Implica a dos o más personas que trabajan interdependientemente hacia un objeti
 
 
 
-# El comportamiento prosocial o la conducta de ayuda
+##### El comportamiento prosocial o la conducta de ayuda
 
 El **comportamiento prosocial** o la **conducta de ayuda** no siempre está motivado únicamente por el altruismo.  
 
@@ -151,12 +151,12 @@ Por ejemplo, una madre que lleva en coche a su hijo en un día lluvioso realiza 
 
 
 
-## Limitaciones de las definiciones
+#### Limitaciones de las definiciones
 Las definiciones tradicionales de comportamiento prosocial no explican los mecanismos subyacentes a estos comportamientos. Es decir, continuamos sin comprender completamente **por qué las personas actúan, o no, de forma prosocial** en diferentes situaciones.
 
 
 
-## Perspectiva psicosocial: Tres enfoques principales
+#### Perspectiva psicosocial: Tres enfoques principales
 
 Desde la perspectiva psicosocial, el estudio del comportamiento prosocial se aborda desde tres dimensiones clave:  
 
@@ -193,7 +193,7 @@ Los metaanálisis de la época concluyeron que los **factores situacionales** er
 
 
 
-## Rasgos de personalidad y conducta de ayuda
+#### Rasgos de personalidad y conducta de ayuda
 
 La investigación ha identificado ciertos rasgos que se relacionan con la conducta prosocial:
 
@@ -219,7 +219,7 @@ La investigación ha identificado ciertos rasgos que se relacionan con la conduc
 
 
 
-## Otras cualidades importantes de la personalidad prosocial
+#### Otras cualidades importantes de la personalidad prosocial
 - **Toma de perspectiva**: Capacidad de ponerse en el lugar de los demás.
 - **Razonamiento moral orientado a los demás**: Decisiones éticas centradas en el bienestar ajeno.
 - **Razonamiento moral basado en la preocupación mutua**: Promoción del bienestar colectivo.
@@ -233,7 +233,7 @@ Estudios como el de Ruci et al. (2018) mostraron que:
 
 
 
-## Factores que inhiben o facilitan la conducta de ayuda
+# 3. Determinantes  la conducta de ayuda
 
 Aunque la mayoría de las personas afirmaría que ayudaría en una emergencia, estudios demuestran que muchas veces no lo hacemos. Por ello, es necesario analizar dos tipos de factores:
 
@@ -245,7 +245,7 @@ Aunque la mayoría de las personas afirmaría que ayudaría en una emergencia, e
 
 
 
-## Caso emblemático: Kitty Genovese (1964)
+#### Caso emblemático: Kitty Genovese (1964)
 
 En 1964, **Kitty Genovese** fue atacada por un hombre en Queens, NY. Durante el ataque:
 1. Los gritos de la víctima inicialmente ahuyentaron al agresor.
@@ -258,7 +258,7 @@ En 1964, **Kitty Genovese** fue atacada por un hombre en Queens, NY. Durante el 
 Este caso emblemático subraya la importancia de estudiar los factores situacionales y disposicionales que afectan la **conducta de ayuda**. ¿Qué aspectos adicionales deseas analizar?
 
 
-## Características de la situación
+#### Características de la situación
 
 #### El caso de Kitty Genovese y el efecto espectador
 
@@ -686,7 +686,7 @@ En situaciones de emergencia, la percepción del donante sobre la víctima puede
 
 
 
-#### ¿Por qué ayudamos? Motivos del comportamiento prosocial
+# 4. ¿Por qué ayudamos? Motivos del comportamiento prosocial
 
 Los investigadores psicosociales identifican tres mecanismos principales que promueven la conducta de ayuda:
 
@@ -1049,7 +1049,7 @@ El aprendizaje del comportamiento prosocial se explica mediante los principios d
 
 
 
-#### La ayuda desde la perspectiva de la persona receptora
+# 5. La ayuda desde la perspectiva de la persona receptora
 
 La ayuda puede entenderse como una **dinámica relacional** entre la persona necesitada y el donante potencial, considerando que es un **comportamiento agéntico** (relativo al acto de "hacer").
 
