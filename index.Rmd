@@ -316,7 +316,8 @@ La presión temporal limita los recursos cognitivos y disminuye la probabilidad 
     - **Presión temporal media:** "El asistente de laboratorio te está esperando."  
     - **Presión temporal alta:** "¡Uf, llegas tarde!"  
     
-    ![Experimento sobre presión temporal](imagenes/condicion.png "Experimento sobre presión temporal")
+    
+![Experimento sobre presión temporal](imagenes/condicion.png "Experimento sobre presión temporal")
 
     
   - En el trayecto, se encontraban con una persona en el suelo tosiendo y gimiendo (un cómplice del experimentador).    
@@ -385,7 +386,7 @@ Una de las fuentes principales es el comportamiento de las demás personas prese
        - **10%** informó.  
  
  
-     ![Resultados del experimento de Darley y Latané (1968).](imagenes/figura64.png "Resultados del experimento de Darley y Latané (1968).")
+![Resultados del experimento de Darley y Latané (1968).](imagenes/figura64.png "Resultados del experimento de Darley y Latané (1968).")
 
 **Observaciones:**  
 Los participantes que no informaron intentaron disipar el humo con las manos o abrir las ventanas, pero no pidieron ayuda. Al preguntarles posteriormente, dijeron que la falta de reacción de los demás les hizo pensar que la situación no era peligrosa.  
@@ -413,7 +414,7 @@ La **ignorancia pluralista** es menor en **grupos de amigos** que en grupos de e
 **Recomendación para víctimas:**    
   - ¡Reduzca la ambigüedad! Solicite ayuda de manera clara y directa.
 
-     ![Señal de socorro](imagenes/socorro.png "Señal de socorro")
+![Señal de socorro](imagenes/socorro.png  "Señal de socorro")
 
 
 #### Comportamiento de la víctima
@@ -585,7 +586,9 @@ Proporciona una explicación sencilla de por qué las personas no ayudan, inclus
 - **Orden de ayuda:**  
   - Víctima sin sangre > Víctima sangrante > Víctima ebria.
   
-  ![Resultados del estudio de Piliavin y Piliavin (1972).](imagenes/figura66.png "Resultados del estudio de Piliavin y Piliavin (1972).")
+![Resultados del estudio de Piliavin y Piliavin (1972)](imagenes/figura66.png "Resultados del estudio de Piliavin y Piliavin (1972)")
+
+
 
 
 #### **Víctima ebria (1969):**
@@ -711,7 +714,7 @@ En situaciones de emergencia, la percepción del donante sobre la víctima puede
   - Cuando estaban acompañados, ayudaron más a la víctima blanca.  
 
 
-![ Racismo aversivo (Gaertner y Dovidio, 1977)](imagenes/figura67.png " Racismo aversivo (Gaertner y Dovidio, 1977)")
+![ Racismo aversivo (Gaertner y Dovidio, 1977)](imagenes/figura67.png "Racismo aversivo (Gaertner y Dovidio, 1977)")
 
 
 # 4. ¿Por qué ayudamos? Motivos del comportamiento prosocial  
