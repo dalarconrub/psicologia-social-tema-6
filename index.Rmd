@@ -7,11 +7,11 @@ site: bookdown::bookdown_site
 documentclass: book
 #bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+# cover  -image: path to the social sharing image like images/cover.jpg
 description: |
  Este resumen del tema es sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía docente de la asignatura.
-link-citations: yes
-github-repo: dalarconrub/psicologia-social-tema-6
+link  -citations: yes
+github  -repo: dalarconrub/psicologia  -social  -tema  -6
 
 
 
@@ -24,7 +24,7 @@ output:
 ---
 
 ---
-# [Psicología Social](https://dalarconrub.github.io/psicologia-social/)
+# [Psicología Social](https://dalarconrub.github.io/psicologia  -social/)
 
 
 
@@ -54,24 +54,25 @@ Para distinguir entre los diferentes tipos de actos prosociales, hay cuatro subc
   1. **Debe beneficiar a los demás** y el beneficio tiene que ser algo que se ha intentado conseguir expresamente.
   2. **La conducta tiene que ser voluntaria.**
 
-**Ejemplo:**
-- Si perdemos un billete de 50€ y:
-  - Quien se lo encuentra lo gasta → **NO HAY CONDUCTA DE AYUDA.**
-  - Le da el dinero a su vecino que lo necesita → **SÍ HAY CONDUCTA DE AYUDA.**
+**Ejemplo:**  
+- Si perdemos un billete de 50€ y:  
+  - Quien se lo encuentra lo gasta → **NO HAY CONDUCTA DE AYUDA.**  
+  - Le da el dinero a su vecino que lo necesita → **SÍ HAY CONDUCTA DE AYUDA.**  
 
-**Otras características:**
-- Puede o no requerir un contacto personal con el receptor:
-  - **Ayuda directa:** Ayuda personal.
-  - **Ayuda indirecta:** Donar a una ONG.
-- Puede implicar o no la anticipación de recompensas externas.
-- Las conductas pueden ser:
-  - **Sencillas:** Dar la hora.
-  - **Difíciles:** Apartar a un niño de la trayectoria de un coche que va muy rápido.
+**Otras características:**  
+- Puede o no requerir un contacto personal con el receptor:  
+  - **Ayuda directa:** Ayuda personal.  
+  - **Ayuda indirecta:** Donar a una ONG.  
+- Puede implicar o no la anticipación de recompensas externas.  
+- Las conductas pueden ser:  
+  - **Sencillas:** Dar la hora.  
+  - **Difíciles:** Apartar a un niño de la trayectoria de un coche que va muy rápido.  
+ 
+**Puntos importantes sobre la conducta de ayuda:**  
+1. No toda la conducta de ayuda es igual.  
+2. Los factores que afectan a la conducta de ayuda en unas situaciones no tienen los mismos efectos en otras.  
 
-**Puntos importantes sobre la conducta de ayuda:**
-1. No toda la conducta de ayuda es igual.
-2. Los factores que afectan a la conducta de ayuda en unas situaciones no tienen los mismos efectos en otras.
-
+![Taxonomías de los tipos de conducta](imagenes/cuadro62.png "Taxonomías de los tipos de conducta")
 
 
 #### Altruismo
@@ -93,52 +94,57 @@ Para distinguir entre los diferentes tipos de actos prosociales, hay cuatro subc
 #### Coraje moral o coraje civil
 Defensa pública de valores y normas morales, que suele asociarse a consecuencias sociales negativas.
 
-**Ejemplos:**
-- Denunciar prácticas discriminatorias de un colega.
-- Intervenir en el espacio público en defensa de un bien mayor.
-- Denunciar prácticas ilegales dentro de las organizaciones (*whistleblowing*).
+**Ejemplos:**  
+    - Denunciar prácticas discriminatorias de un colega.  
+    - Intervenir en el espacio público en defensa de un bien mayor.  
+    - Denunciar prácticas ilegales dentro de las organizaciones (*whistleblowing*).  
 
-**Whistleblowing:**
-- El término proviene de la policía británica que usaban silbatos (*whistle*) para alertar de delitos.
-- Hoy, describe a personas que denuncian delitos, peligros o fraudes que están siendo silenciados por otros miembros de un grupo.
+**Whistleblowing:**  
+    - El término proviene de la policía británica que usaban silbatos (*whistle*) para alertar de delitos.  
+    - Hoy, describe a personas que denuncian delitos, peligros o fraudes que están siendo silenciados por otros miembros de un grupo.  
 
-**Casos destacados:**
-- Edward Snowden, Chelsea Manning y Julian Assange.
+**Casos destacados:**  
+  - Edward Snowden, Chelsea Manning y Julian Assange. 
+ 
+**Identidad social y motivación:**  
+  - La probabilidad de denunciar depende de si los individuos se identifican más con:  
+    - **Categorías de nivel inferior:** Grupo infractor.  
+    - **Categorías de nivel superior:** Organización o profesión.  
 
-**Identidad social y motivación:**
-- La probabilidad de denunciar depende de si los individuos se identifican más con:
-  - **Categorías de nivel inferior:** Grupo infractor.
-  - **Categorías de nivel superior:** Organización o profesión.
+**Factores que influyen:**  
+1. Identificarse fuertemente con el grupo infractor reduce la probabilidad de denunciar:  
+     - Mayor tolerancia a las infracciones del grupo.  
+     - Mayor presión social para conformarse y ser cómplice.  
+     - Temor a las consecuencias negativas para el grupo y el infractor.  
+2. Identificarse con la categoría superior aumenta la probabilidad de denunciar irregularidades porque las malas prácticas internas violan los valores de la organización o profesión.  
 
-**Factores que influyen:**
-1. Identificarse fuertemente con el grupo infractor reduce la probabilidad de denunciar:
-   - Mayor tolerancia a las infracciones del grupo.
-   - Mayor presión social para conformarse y ser cómplice.
-   - Temor a las consecuencias negativas para el grupo y el infractor.
-2. Identificarse con la categoría superior aumenta la probabilidad de denunciar irregularidades porque las malas prácticas internas violan los valores de la organización o profesión.
+Los actos moralmente valientes suelen tener una naturaleza de confrontación (denunciar a transgresores) con el único objetivo de rectificar lo que se ha hecho mal y así contribuir a un bien mayor.  
+▪ No requiere necesariamente una víctima.     
+▪ Consecuencias sociales negativas.  
+▪ Agresor percibido como amenazante.  
 
-**Diferencias con el heroísmo:**
-- **Coraje civil:** Consecuencias sociales negativas, enfrentamiento con un agresor.
-- **Heroísmo:** Consecuencias sociales positivas, admiración pública.
+**Diferencias con el heroísmo:**  
+  - **Coraje civil:** Consecuencias sociales negativas, enfrentamiento con un agresor.  
+  - **Heroísmo:** Consecuencias sociales positivas, admiración pública.  
 
 
 
 #### Cooperación
 Implica a dos o más personas que trabajan interdependientemente hacia un objetivo común que beneficiará a todos los implicados.
 
-**Características:**
-- No existe jerarquía ni poder.
-- Todos obtienen recompensas comunes.
-- Fomenta la cohesión grupal y mejora las relaciones interpersonales.
+**Características:**  
+  - No existe jerarquía ni poder.   
+  - Todos obtienen recompensas comunes.  
+  - Fomenta la cohesión grupal y mejora las relaciones interpersonales.  
 
-**Investigación actual:**
-- Se centra en dilemas sociales, que presentan dos características fundamentales:
-  1. Cada individuo recibe una recompensa mayor por no cooperar (*desertar*), pero esto perjudica al grupo.
-  2. Todos los individuos están mejor si cooperan que si desertan.
-
-**Diferencias con la conducta de ayuda y el altruismo:**
-- Estos implican un desequilibrio entre receptor y donante, donde el receptor necesita ayuda y el donante tiene los recursos.
-- Puede generar la percepción de que el benefactor asume una posición de poder, haciendo que el receptor se sienta obligado a devolver el favor.
+**Investigación actual:**  
+  - Se centra en dilemas sociales, que presentan dos características fundamentales:  
+    1. Cada individuo recibe una recompensa mayor por no cooperar (*desertar*), pero esto perjudica al grupo.  
+    2. Todos los individuos están mejor si cooperan que si desertan.  
+   
+**Diferencias con la conducta de ayuda y el altruismo:**  
+  - Estos implican un *desequilibrio* entre receptor y donante, donde el receptor necesita ayuda y el donante tiene los recursos.  
+  - Puede generar la percepción de que el benefactor asume una posición de poder, haciendo que el receptor se sienta obligado a devolver el favor.
 
 
 
@@ -160,15 +166,15 @@ Las definiciones tradicionales de comportamiento prosocial no explican los mecan
 
 Desde la perspectiva psicosocial, el estudio del comportamiento prosocial se aborda desde tres dimensiones clave:  
 
-1. **Factores situacionales**  
+  1. **Factores situacionales**  
    - Se enfoca en las condiciones externas o contextuales en lugar de los aspectos personales del individuo.  
-
-2. **Procesos psicológicos**  
+  
+  2. **Procesos psicológicos**  
    - Incluyen:
      - **Afectivos:** Emociones que motivan o inhiben la conducta prosocial.
      - **Cognitivos:** Procesos de razonamiento y evaluación que influyen en la toma de decisiones.  
 
-3. **Socialización y normas**  
+  3. **Socialización y normas**  
    - Analiza cómo la cultura, las normas sociales y el aprendizaje a lo largo de la vida moldean las conductas de ayuda.  
 
 
@@ -177,16 +183,16 @@ Desde la perspectiva psicosocial, el estudio del comportamiento prosocial se abo
 
 En la década de los 60, los investigadores centraron sus esfuerzos en identificar los factores que mejor predecían la **conducta de ayuda**. Estas investigaciones tomaron dos enfoques principales:
 
-- **Psicólogos de la personalidad**: Se enfocaron en variables disposicionales como:
-  - **Anomia**: Falta de integración o normas sociales.
-  - **Maquiavelismo**: Tendencia a manipular y ser cínico.
-  - **Responsabilidad social**: Preocupación por el bienestar de los demás.
+  - **Psicólogos de la personalidad**: Se enfocaron en variables disposicionales como:
+    - **Anomia**: Falta de integración o normas sociales.
+    - **Maquiavelismo**: Tendencia a manipular y ser cínico.
+    - **Responsabilidad social**: Preocupación por el bienestar de los demás.
 
-- **Psicólogos sociales**: Analizaron factores situacionales como:
-  - Aspecto físico de la víctima.
-  - Similitud con la víctima.
-  - Número de transeúntes.
-  - Coste de la ayuda.
+  - **Psicólogos sociales**: Analizaron factores situacionales como:
+    - Aspecto físico de la víctima.
+    - Similitud con la víctima.
+    - Número de transeúntes.
+    - Coste de la ayuda.
 
 #### Conclusiones iniciales
 Los metaanálisis de la época concluyeron que los **factores situacionales** eran mejores predictores de la **conducta prosocial**. Sin embargo, investigaciones posteriores demostraron que los **rasgos de personalidad** también desempeñan un papel importante, especialmente en contextos donde los factores situacionales no son determinantes.
@@ -198,61 +204,62 @@ Los metaanálisis de la época concluyeron que los **factores situacionales** er
 La investigación ha identificado ciertos rasgos que se relacionan con la conducta prosocial:
 
 #### 1. **Amabilidad**
-- Incluye características como:
-  - **Simpatía**, **generosidad**, **perdón** y **ayuda**.
-- Está relacionada con:
-  - **Prosocialidad**, **empatía**, **voluntariado** y mayor probabilidad de realizar conductas de ayuda.
-- Las personas con altos niveles de amabilidad ayudan independientemente de:
-  - Inducción de empatía.
-  - Coste de la ayuda (alto o bajo).
-  - Pertenencia de la víctima al endogrupo o exogrupo.
+  - Incluye características como:
+    - **Simpatía**, **generosidad**, **perdón** y **ayuda**.
+  - Está relacionada con:
+    - **Prosocialidad**, **empatía**, **voluntariado** y mayor probabilidad de realizar conductas de ayuda.
+  - Las personas con altos niveles de amabilidad ayudan independientemente de:
+    - Inducción de empatía.
+    - Coste de la ayuda (alto o bajo).
+    - Pertenencia de la víctima al endogrupo o exogrupo.
 
-#### 2. **Honestidad-Humildad**
-- Incluye cualidades como:
-  - **Sinceridad**, **honestidad** e **imparcialidad**.
-- Se ha vinculado al comportamiento prosocial en escenarios como el **dilema del prisionero**.
+#### 2. **Honestidad  -Humildad**
+  - Incluye cualidades como:
+    - **Sinceridad**, **honestidad** e **imparcialidad**.
+  - Se ha vinculado al comportamiento prosocial en escenarios como el **dilema del prisionero**.
 
 #### 3. **Dimensiones de la personalidad prosocial**
-- **Empatía disposicional**: Tendencia a elicitar conductas de ayuda en la vida real.
-- **Responsabilidad social**: Inclinación a preocuparse por el bienestar de los demás y asumir la responsabilidad por ellos.
-  - Las personas con alta responsabilidad social realizan más conductas prosociales, incluso si no esperan reciprocidad.
+  - **Empatía disposicional**: Tendencia a elicitar conductas de ayuda en la vida real.
+  - **Responsabilidad social**: Inclinación a preocuparse por el bienestar de los demás y asumir la responsabilidad por ellos.
+    - Las personas con alta responsabilidad social realizan más conductas prosociales, incluso si no esperan reciprocidad.
 
 
 
 #### Otras cualidades importantes de la personalidad prosocial
-- **Toma de perspectiva**: Capacidad de ponerse en el lugar de los demás.
-- **Razonamiento moral orientado a los demás**: Decisiones éticas centradas en el bienestar ajeno.
-- **Razonamiento moral basado en la preocupación mutua**: Promoción del bienestar colectivo.
+  - **Toma de perspectiva**: Capacidad de ponerse en el lugar de los demás.
+  - **Razonamiento moral orientado a los demás**: Decisiones éticas centradas en el bienestar ajeno.
+  - **Razonamiento moral basado en la preocupación mutua**: Promoción del bienestar colectivo.
 
-#### Relación entre prosocialidad y agotamiento
-Estudios como el de Ruci et al. (2018) mostraron que:
-- Personas prosociales experimentan mayor agotamiento cognitivo después de ayudar.
-- Esto se traduce en una menor persistencia en tareas de ayuda continuada.
+#### Relación entre prosocialidad y agotamiento  
+Estudios como el de Ruci et al. (2018) mostraron que:  
+  - Personas prosociales experimentan mayor agotamiento cognitivo después de ayudar.  
+  - Esto se traduce en una menor persistencia en tareas de ayuda continuada. 
   
   **Mayor prosocialidad → Mayor agotamiento cognitivo → Menor persistencia**
 
 
-
 # 3. Determinantes  la conducta de ayuda
 
-Aunque la mayoría de las personas afirmaría que ayudaría en una emergencia, estudios demuestran que muchas veces no lo hacemos. Por ello, es necesario analizar dos tipos de factores:
+Aunque la mayoría de las personas afirmaría que ayudaría en una emergencia, estudios demuestran que muchas veces no lo hacemos. Por ello, es necesario analizar dos tipos de factores:  
 
-#### 1. **Características de la situación**
-- Contexto específico que puede facilitar o inhibir la ayuda.
+#### 1. **Características de la situación**  
+  - Contexto específico que puede facilitar o inhibir la ayuda.  
 
-#### 2. **Características de la víctima**
-- Aspectos de la víctima que influyen en la probabilidad de recibir ayuda.
+#### 2. **Características de la víctima**  
+  - Aspectos de la víctima que influyen en la probabilidad de recibir ayuda.  
 
 
 
-#### Caso emblemático: Kitty Genovese (1964)
+#### Caso emblemático: Kitty Genovese (1964)  
 
 En 1964, **Kitty Genovese** fue atacada por un hombre en Queens, NY. Durante el ataque:
-1. Los gritos de la víctima inicialmente ahuyentaron al agresor.
-2. Sin embargo, al ver que nadie acudía en su ayuda, el atacante regresó y la mató.
-3. Media hora después del inicio del ataque, la policía recibió una llamada anónima denunciando la agresión.
-4. Durante la investigación, **38 personas admitieron haber escuchado los gritos** y reconocieron que habrían tenido tiempo para intervenir, pero **nadie lo hizo**.
+  1. Los gritos de la víctima inicialmente ahuyentaron al agresor.
+  2. Sin embargo, al ver que nadie acudía en su ayuda, el atacante regresó y la mató.
+  3. Media hora después del inicio del ataque, la policía recibió una llamada anónima denunciando la agresión.
+  4. Durante la investigación, **38 personas admitieron haber escuchado los gritos** y reconocieron que habrían tenido tiempo para intervenir, pero **nadie lo hizo**.
 
+
+![Kitty Genovese](imagenes/kitty.png "Kitty Genovese")
 
 
 Este caso emblemático subraya la importancia de estudiar los factores situacionales y disposicionales que afectan la **conducta de ayuda**. ¿Qué aspectos adicionales deseas analizar?
@@ -262,77 +269,85 @@ Este caso emblemático subraya la importancia de estudiar los factores situacion
 
 #### El caso de Kitty Genovese y el efecto espectador
 
-Tras el asesinato de **Kitty Genovese** en 1964, los medios de comunicación de la época explicaron el suceso como resultado de la apatía, alienación, anomia y angustia social. Sin embargo, investigaciones posteriores en Psicología Social, lideradas por **Bibb Latané** y **John Darley** (1970), demostraron que la presencia de otras personas reduce la probabilidad de que los observadores intervengan en una situación de emergencia, un fenómeno conocido como el **efecto espectador**.
+Tras el asesinato de **Kitty Genovese** en 1964, los medios de comunicación de la época explicaron el suceso como resultado de la apatía, alienación, anomia y angustia social.
+
+Sin embargo, investigaciones posteriores en Psicología Social, lideradas por **Bibb Latané** y **John Darley** (1970), demostraron que la presencia de otras personas reduce la probabilidad de que los observadores intervengan en una situación de emergencia, un fenómeno conocido como el **efecto espectador**.
 
 #### Modelo de intervención en emergencias
 Latané y Darley propusieron un modelo para explicar las decisiones que llevan a las personas a ayudar (o no) en una situación de emergencia. Este modelo incluye cinco fases críticas:  
 
-1. **Reconocer que el suceso es anómalo.**  
-2. **Interpretarlo como una emergencia.**  
-3. **Asumir la responsabilidad de ayudar.**  
-4. **Saber cómo ayudar.**  
-5. **Decidir si se presta ayuda o no.**
+  1. **Reconocer que el suceso es anómalo.**  
+  2. **Interpretarlo como una emergencia.**  
+  3. **Asumir la responsabilidad de ayudar.**  
+  4. **Saber cómo ayudar.**  
+  5. **Decidir si se presta ayuda o no.**
 
 Una respuesta negativa en cualquiera de estas fases implica que la persona no ayudará.
 
+![El proceso de decisión ante una emergencia](imagenes/figura62.png "El proceso de decisión ante una emergencia")
 
 
 #### Fase 1: ¿Es un suceso anómalo?
 
 Muchas emergencias pasan desapercibidas porque las personas están absortas en sus preocupaciones o no prestan atención a su entorno. La probabilidad de notar un suceso depende de su **anomalidad** o **preeminencia**.  
-**Ejemplos de señales que aumentan la atención al suceso:**
-- Luces o explosiones.
-- Humo.
-- Olores intensos.
+**Ejemplos de señales que aumentan la atención al suceso:**  
+  - Luces o explosiones.  
+  - Humo.  
+  - Olores intensos.  
 
-**Factores que afectan la percepción del suceso:**
-1. **Recursos cognitivos disponibles.**
-2. **Estado de ánimo.**
-3. **Presión temporal.**
-4. **Sobrecarga sensorial.**
+**Factores que afectan la percepción del suceso:**  
+  1. **Recursos cognitivos disponibles.**  
+  2. **Estado de ánimo.**  
+  3. **Presión temporal.**  
+  4. **Sobrecarga sensorial.**  
 
 #### Presión temporal
 
 La presión temporal limita los recursos cognitivos y disminuye la probabilidad de interpretar un evento como una situación anómala.  
-**Hallazgos clave:**
-- Las personas bajo **alta presión temporal** ayudan menos que aquellas sin presión.
-- La relevancia de la causa por la que una persona tiene prisa también influye:
-  - Menor relevancia → Mayor probabilidad de ayudar.
-- Leer ejemplos de conductas prosociales (e.g., parábola del Buen Samaritano) puede aumentar la ayuda.
+**Hallazgos clave:**  
+  - Las personas bajo **alta presión temporal** ayudan menos que aquellas sin presión.  
+  - La relevancia de la causa por la que una persona tiene prisa también influye:  
+    - Menor relevancia → Mayor probabilidad de ayudar.  
+  - Leer ejemplos de conductas prosociales (e.g., parábola del Buen Samaritano) puede aumentar la ayuda.  
 
-**Experimento sobre presión temporal:**
-- **Diseño:** A estudiantes se les pedía leer un texto y luego trasladarse a otro edificio para una presentación. La presión temporal se manipuló mediante comentarios del experimentador:
-  - **Sin presión temporal:** "Quizás tengas que esperar cuando llegues."
-  - **Presión temporal media:** "El asistente de laboratorio te está esperando."
-  - **Presión temporal alta:** "¡Uf, llegas tarde!"
-- En el trayecto, se encontraban con una persona en el suelo tosiendo y gimiendo (un cómplice del experimentador).  
-- **Resultados:** A mayor presión temporal, menos ayuda prestaban los participantes.  
-  - **Mayor presión temporal → Menor ayuda.**
+**Experimento sobre presión temporal:**  
+  - **Diseño:** A estudiantes se les pedía leer un texto y luego trasladarse a otro edificio para una presentación. La presión temporal se manipuló mediante comentarios del experimentador:  
+    - **Sin presión temporal:** "Quizás tengas que esperar cuando llegues."  
+    - **Presión temporal media:** "El asistente de laboratorio te está esperando."  
+    - **Presión temporal alta:** "¡Uf, llegas tarde!"  
+    
+    ![Experimento sobre presión temporal](imagenes/condicion.png "Experimento sobre presión temporal")
 
+    
+  - En el trayecto, se encontraban con una persona en el suelo tosiendo y gimiendo (un cómplice del experimentador).    
+  - **Resultados:** A mayor presión temporal, menos ayuda prestaban los participantes.    
+    - **Mayor presión temporal → Menor ayuda.**  
+
+    ![Experimento de Darley y Batson (1973)](imagenes/figura63.png "Experimento de Darley y Batson (1973)")
 
 
 #### Sobrecarga sensorial
 
 La sobrecarga sensorial puede dificultar la percepción de situaciones inusuales. Las personas en **zonas rurales** tienden a ser más prosociales con extraños que las de grandes ciudades.  
 
-**Hipótesis de la sobrecarga urbana (Steblay, 1987):**
-- En las grandes ciudades, la densidad de estímulos hace que las personas se aíslen de su entorno para evitar una sobrecarga sensorial.  
-- Conductas prosociales hacia extraños (e.g., transmitir mensajes telefónicos, reenviar cartas, responder encuestas) son menos frecuentes en contextos urbanos.
+**Hipótesis de la sobrecarga urbana (Steblay, 1987):**  
+  - En las grandes ciudades, la densidad de estímulos hace que las personas se aíslen de su entorno para evitar una sobrecarga sensorial.    
+  - Conductas prosociales hacia extraños (e.g., transmitir mensajes telefónicos, reenviar cartas, responder encuestas) son menos frecuentes en contextos urbanos.  
 
-**Factores que influyen en la conducta de ayuda en zonas urbanas:**
-1. Tamaño y densidad de la población.
-2. Poder adquisitivo.
-3. Velocidad promedio al caminar.
+**Factores que influyen en la conducta de ayuda en zonas urbanas:**  
+  1. Tamaño y densidad de la población.  
+  2. Poder adquisitivo.  
+  3. Velocidad promedio al caminar.  
 
 
 
 #### Estado de ánimo
 
-El estado de ánimo de una persona también influye en su capacidad para percibir situaciones anómalas:
-- **Estado de ánimo negativo:**  
-  - Las personas tienden a centrarse más en sí mismas y perciben menos las necesidades de otros.
-- **Buen humor:**  
-  - Mayor sensibilidad hacia las necesidades ajenas y, por tanto, mayor probabilidad de prestar ayuda.
+El estado de ánimo de una persona también influye en su capacidad para percibir situaciones anómalas:  
+  - **Estado de ánimo negativo:**    
+    - Las personas tienden a centrarse más en sí mismas y perciben menos las necesidades de otros.  
+  - **Buen humor:**    
+    - Mayor sensibilidad hacia las necesidades ajenas y, por tanto, mayor probabilidad de prestar ayuda.  
 
 
 
@@ -343,10 +358,10 @@ Imagina que vas caminando por la calle de noche y ves a una persona de aspecto d
 
 
 
-#### Determinantes situacionales que influyen en la interpretación como emergencia:
-1. **Grado de ambigüedad de la situación** → *Ignorancia pluralista.*
-2. **Capacidad de las personas para comunicarse entre sí.**
-3. **Comportamiento de la víctima.**
+#### Determinantes situacionales que influyen en la interpretación como emergencia:  
+  1. **Grado de ambigüedad de la situación** → *Ignorancia pluralista.*  
+  2. **Capacidad de las personas para comunicarse entre sí.**  
+  3. **Comportamiento de la víctima.**  
 
 
 
@@ -358,16 +373,19 @@ Una de las fuentes principales es el comportamiento de las demás personas prese
 
 
 
-**Experimento: Latané y Darley (1968)**  
-- Participantes: Estudiantes en una sala de espera.
-- Procedimiento: Se liberaba humo desde una sala contigua para analizar si los participantes reportaban la incidencia durante los siguientes seis minutos. Si nadie informaba, la sala se llenaba de humo y se terminaba la sesión.  
-- Condiciones:
-  1. **Participante solo en la sala de espera**:  
-     - **75%** reaccionó e informó del incidente.
-  2. **Participante con otros dos participantes reales**:  
-     - **3%** informó.
-  3. **Participante con cuatro cómplices del experimentador**:  
-     - **10%** informó.  
+**Experimento: Latané y Darley (1968)**    
+  - Participantes: Estudiantes en una sala de espera.  
+  - Procedimiento: Se liberaba humo desde una sala contigua para analizar si los participantes reportaban la incidencia durante los siguientes seis minutos. Si nadie informaba, la sala se llenaba de humo y se terminaba la sesión.    
+  - Condiciones:  
+    1. **Participante solo en la sala de espera**:    
+       - **75%** reaccionó e informó del incidente.  
+    2. **Participante con otros dos participantes reales**:     
+       - **3%** informó.  
+    3. **Participante con cuatro cómplices del experimentador**:    
+       - **10%** informó.  
+ 
+ 
+     ![Resultados del experimento de Darley y Latané (1968).](imagenes/figura64.png "Resultados del experimento de Darley y Latané (1968).")
 
 **Observaciones:**  
 Los participantes que no informaron intentaron disipar el humo con las manos o abrir las ventanas, pero no pidieron ayuda. Al preguntarles posteriormente, dijeron que la falta de reacción de los demás les hizo pensar que la situación no era peligrosa.  
@@ -380,20 +398,22 @@ El fenómeno observado en el experimento se denomina **ignorancia pluralista** y
 
 
 
+
 #### Capacidad de las personas para comunicarse entre sí
 
 La **ignorancia pluralista** es menor en **grupos de amigos** que en grupos de extraños, ya que los amigos comparten un marco cognitivo común basado en experiencias previas.  
 
-**Ejemplo práctico:**  
-- Las víctimas que **piden ayuda** tienen más probabilidades de recibirla que aquellas que no lo hacen.  
-- Cuanto más clara sea la solicitud de ayuda, mayores serán las probabilidades de que alguien actúe.  
-  - **Ejemplo:**  
-    - "¡Ayuda, violación, llama a la policía!" → Más efectiva.  
-    - "¡Socorro!" → Menos efectiva.  
+**Ejemplo práctico:**    
+  - Las víctimas que **piden ayuda** tienen más probabilidades de recibirla que aquellas que no lo hacen.    
+  - Cuanto más clara sea la solicitud de ayuda, mayores serán las probabilidades de que alguien actúe.    
+    - **Ejemplo:**    
+      - "¡Ayuda, violación, llama a la policía!" → Más efectiva.    
+     -  "¡Socorro!" → Menos efectiva.    
 
-**Recomendación para víctimas:**  
-- ¡Reduzca la ambigüedad! Solicite ayuda de manera clara y directa.
+**Recomendación para víctimas:**    
+  - ¡Reduzca la ambigüedad! Solicite ayuda de manera clara y directa.
 
+     ![Señal de socorro](imagenes/socorro.png "Señal de socorro")
 
 
 #### Comportamiento de la víctima
@@ -413,14 +433,14 @@ Sin embargo, **la probabilidad de ayudar disminuye a medida que aumenta el núme
 
 #### Mecanismos del efecto espectador
 
-1. **Aprensión a la evaluación**  
-   - Miedo a ser juzgado negativamente por otros si se interpreta mal la situación o no hay necesidad de ayuda.
+  1. **Aprensión a la evaluación**    
+     - Miedo a ser juzgado negativamente por otros si se interpreta mal la situación o no hay necesidad de ayuda.
+  
+  2. **Ignorancia pluralista**    
+     - La presencia de varias personas puede llevar a interpretar erróneamente que  la situación no es una emergencia.
 
-2. **Ignorancia pluralista**  
-   - La presencia de varias personas puede llevar a interpretar erróneamente que la situación no es una emergencia.
-
-3. **Difusión de la responsabilidad**  
-   - A medida que aumenta el número de personas presentes, cada individuo se siente menos responsable de intervenir.
+  3. **Difusión de la responsabilidad**    
+     - A medida que aumenta el número de personas presentes, cada individuo se siente menos responsable de intervenir.
 
 
 
@@ -428,51 +448,54 @@ Sin embargo, **la probabilidad de ayudar disminuye a medida que aumenta el núme
 
 El efecto espectador también se observa en entornos virtuales, como cuando se envía un correo masivo solicitando ayuda. La probabilidad de obtener una respuesta disminuye si hay muchos destinatarios.
 
-**En ciberacoso:**
-- La probabilidad de ayuda depende de la **gravedad percibida** del incidente:
-  - **Amenazas, pero no insultos**: Se perciben como situaciones graves y la ayuda es más probable.
-  - **Insultos, sin amenazas**: Se perciben como menos graves y pueden llevar a culpar a la víctima.
+**En ciberacoso:**  
+  - La probabilidad de ayuda depende de la **gravedad percibida** del incidente:  
+    - **Amenazas, pero no insultos**: Se perciben como situaciones graves y la ayuda es más probable.  
+    - **Insultos, sin amenazas**: Se perciben como menos graves y pueden llevar a culpar a la víctima.  
+ 
+**Factores que afectan el efecto espectador en entornos virtuales:**  
+  1. **Número de espectadores virtuales:** Más espectadores = Menor probabilidad de intervención.  
+  2. **Anonimato percibido:** El anonimato reduce la responsabilidad percibida.  
+  3. **Cercanía con la víctima:** Las personas con una relación cercana con la víctima son más propensas a intervenir.  
 
-**Factores que afectan el efecto espectador en entornos virtuales:**
-1. **Número de espectadores virtuales:** Más espectadores = Menor probabilidad de intervención.
-2. **Anonimato percibido:** El anonimato reduce la responsabilidad percibida.
-3. **Cercanía con la víctima:** Las personas con una relación cercana con la víctima son más propensas a intervenir.
 
 
+#### Factores que reducen o eliminan el efecto espectador  
 
-#### Factores que reducen o eliminan el efecto espectador
+  1. **Costes altos para la víctima:**    
+     - Si no ayudar implica un daño significativo para la víctima, las personas tienden a intervenir independientemente del número de espectadores presentes.    
+       - **Ejemplo:** Una mujer atacada por un hombre físicamente más fuerte.  
 
-1. **Costes altos para la víctima:**  
-   - Si no ayudar implica un daño significativo para la víctima, las personas tienden a intervenir independientemente del número de espectadores presentes.  
-     - **Ejemplo:** Una mujer atacada por un hombre físicamente más fuerte.
+  2. **Relevancia personal del daño:**    
+     - Si el daño afecta directamente al observador, se incrementa el sentimiento de responsabilidad personal.    
+       - **Ejemplo:** Una persona es más propensa a denunciar basura arrojada en un parque donde pasea regularmente que grafitis en un ascensor.  
 
-2. **Relevancia personal del daño:**  
-   - Si el daño afecta directamente al observador, se incrementa el sentimiento de responsabilidad personal.  
-     - **Ejemplo:** Una persona es más propensa a denunciar basura arrojada en un parque donde pasea regularmente que grafitis en un ascensor.
-
-3. **Asignación de responsabilidad personal:**  
-   - Cuando se solicita ayuda de manera directa o cuando la falta de ayuda perjudica la reputación del observador.  
-     - **Ejemplo:** En experimentos online, cuando los participantes eran identificables (nombre o webcam), el efecto espectador disminuía e incluso se invertía: las personas ayudaban más en presencia de otros que estando solos.
+  3. **Asignación de responsabilidad personal:**    
+     - Cuando se solicita ayuda de manera directa o cuando la falta de ayuda perjudica la reputación del observador.    
+       - **Ejemplo:** En experimentos online, cuando los participantes eran identificables (nombre o webcam), el efecto espectador disminuía e incluso se invertía: las personas ayudaban más en presencia de otros que estando solos.  
 
 
 
 #### Variables sociodemográficas y efecto espectador
 
-1. **Estatus socioeconómico:**  
-   - Las personas con menos recursos suelen ser más generosas.  
-   - **Experimento:**  
-     - Participantes ricos y pobres recibían diferentes cantidades de décimos de lotería.
-     - Cuando estaban solos, no había diferencias significativas en donaciones.
-     - En presencia de otros, los "pobres" donaban más que los "ricos", independientemente del receptor (persona ficticia u ONG).
+  1. **Estatus socioeconómico:**    
+     - Las personas con menos recursos suelen ser más generosas.    
+     - **Experimento:**    
+       - Participantes ricos y pobres recibían diferentes cantidades de décimos de lotería.  
+       - Cuando estaban solos, no había diferencias significativas en donaciones.  
+       - En presencia de otros, los "pobres" donaban más que los "ricos", independientemente del receptor (persona ficticia u ONG).  
+       
+            ![Resultados del estudio de Pittarello et al. (2023).](imagenes/figura65.png "Resultados del estudio de Pittarello et al. (2023).")
 
-2. **Género y tipos de ayuda:**  
-   - Hombres y mujeres ofrecen cantidades similares de ayuda, pero difieren en el tipo de ayuda proporcionada:
-     - **Hombres:**  
-       - Ayuda directa en situaciones físicamente peligrosas o que requieren fuerza.
-       - Responden mejor en situaciones ambiguas o con extraños.
-     - **Mujeres:**  
-       - Ayuda indirecta en forma de apoyo emocional o asesoramiento informal.
-       - Ayudan más a personas cercanas en situaciones que perciben como débiles.
+
+  2. **Género y tipos de ayuda:**    
+     - Hombres y mujeres ofrecen cantidades similares de ayuda, pero difieren en el tipo de ayuda proporcionada:  
+       - **Hombres:**    
+         - Ayuda directa en situaciones físicamente peligrosas o que requieren fuerza.  
+         - Responden mejor en situaciones ambiguas o con extraños.  
+       - **Mujeres:**    
+         - Ayuda indirecta en forma de apoyo emocional o asesoramiento informal.  
+         -Ayudan más a personas cercanas en situaciones que perciben como débiles.  
 
 
 
@@ -490,60 +513,63 @@ Según **Piliavin et al. (1981)**, la decisión final de implicarse en una condu
 
 Una persona puede haber superado las fases previas del modelo de intervención (percibir el evento, interpretarlo como una emergencia, asumir responsabilidad y sentirse competente), pero aun así decidir no ayudar.
 
-#### Factores que influyen en la decisión de intervenir:
-- **Más probable la ayuda**:
-  - Costes en tiempo, dinero y recursos son bajos.
-- **Menos probable la ayuda**:
-  - Percepción de riesgos, como causar daño a la víctima (e.g., mover inadecuadamente a un motorista accidentado).
+#### Factores que influyen en la decisión de intervenir:  
+  - **Más probable la ayuda**:  
+    - Costes en tiempo, dinero y recursos son bajos.  
+  - **Menos probable la ayuda**:  
+    - Percepción de riesgos, como causar daño a la víctima (e.g., mover inadecuadamente a un motorista accidentado).  
+ 
+  **No prestar ayuda** también puede generar **costes negativos para el donante**, como:    
+  - Sentimientos de culpa.    
+  - Desaprobación social.    
+  - Consecuencias legales o penales.  
 
-**No prestar ayuda** también puede generar **costes negativos para el donante**, como:  
-- Sentimientos de culpa.  
-- Desaprobación social.  
-- Consecuencias legales o penales.
 
 
-
-#### Modelo de Activación y Coste-Recompensa (Piliavin et al.)
+#### Modelo de Activación y Coste  -Recompensa (Piliavin et al.)
 
 Este modelo, basado en una perspectiva económica, postula que el comportamiento humano está motivado por maximizar recompensas y reducir costes.  
 Proporciona una explicación sencilla de por qué las personas no ayudan, incluso si han tomado decisiones afirmativas en las fases previas.
 
 #### Etapas del modelo:
-1. **Activación (arousal):**
-   - Al presenciar el sufrimiento de una persona, se produce una activación fisiológica desagradable (aversiva).
-   - Esta activación motiva al individuo a buscar formas de reducirla, lo que puede llevar a actuar.
+  1. **Activación (arousal):**
+     - Al presenciar el sufrimiento de una persona, se produce una activación fisiológica desagradable (aversiva).
+     - Esta activación motiva al individuo a buscar formas de reducirla, lo que puede llevar a actuar.
 
-2. **Análisis de costes-beneficios:**
-   - El individuo evalúa los costes y beneficios de ayudar o no.
-   - **Costes de ayudar:** Tiempo, esfuerzo, dinero, riesgos físicos o emocionales.
-   - **Costes de no ayudar:** Culpa, desaprobación social, remordimientos.
+  2. **Análisis de costes  -beneficios:**
+     - El individuo evalúa los costes y beneficios de ayudar o no.
+     - **Costes de ayudar:** Tiempo, esfuerzo, dinero, riesgos físicos o emocionales.
+     - **Costes de no ayudar:** Culpa, desaprobación social, remordimientos.
 
 **La conducta de ayuda ocurre cuando los beneficios superan a los costes.**
 
+![Algunos posibles beneficios y costes de prestar o no prestar ayuda](imagenes/tabla61.png "Algunos posibles beneficios y costes de prestar o no prestar ayuda")
 
 
 #### Predicciones del modelo:
 
-1. **Bajos costes de ayudar y altos costes de no ayudar:**  
-   - Probable ayuda directa.  
-     - **Ejemplo:** Un anciano cae en una calle con mucho tráfico.  
-     - **Fórmula:**  
-       - **Ayuda directa** = ↓ Coste de ayudar + ↑ Coste de no ayudar.
+  1. **Bajos costes de ayudar y altos costes de no ayudar:**  
+     - Probable ayuda directa.  
+       - **Ejemplo:** Un anciano cae en una calle con mucho tráfico.  
+       - **Fórmula:**  
+         - **Ayuda directa** = ↓ Coste de ayudar + ↑ Coste de no ayudar.
 
-2. **Altos costes de ayudar y bajos costes de no ayudar:**  
-   - Probable evasión del problema.  
-     - **Fórmula:**  
-       - **Evasión** = ↑ Coste de ayudar + ↓ Coste de no ayudar.
+  2. **Altos costes de ayudar y bajos costes de no ayudar:**  
+     - Probable evasión del problema.  
+       - **Fórmula:**  
+         - **Evasión** = ↑ Coste de ayudar + ↓ Coste de no ayudar.
 
-3. **Altos costes de ayudar y no ayudar:**  
-   - Dos posibles respuestas:
-     - Ayuda indirecta (e.g., llamar a la policía).  
-     - Reinterpretación de la situación (e.g., culpar a la víctima o delegar la responsabilidad en otros).  
-     - **Fórmula:**  
-       - **Indirección o reinterpretación** = ↑ Coste de ayudar + ↑ Coste de no ayudar.
+  3. **Altos costes de ayudar y no ayudar:**  
+    - Dos posibles respuestas:
+       - Ayuda indirecta (e.g., llamar a la policía).  
+       - Reinterpretación de la situación (e.g., culpar a la víctima o delegar la responsabilidad en otros).  
+       - **Fórmula:**  
+         - **Indirección o reinterpretación** = ↑ Coste de ayudar + ↑ Coste de no ayudar.
 
-4. **Bajos costes de ayudar y de no ayudar:**  
-   - La acción dependerá de factores contextuales, características personales del donante y normas sociales.
+  4. **Bajos costes de ayudar y de no ayudar:**  
+     - La acción dependerá de factores contextuales, características personales del donante y normas sociales.
+
+![Predicciones sobre el comportamiento de ayuda](imagenes/tabla62.png "Predicciones sobre el comportamiento de ayuda")
 
 
 
@@ -558,17 +584,21 @@ Proporciona una explicación sencilla de por qué las personas no ayudan, inclus
 - A mayor coste de ayudar (asco o miedo), menor ayuda.  
 - **Orden de ayuda:**  
   - Víctima sin sangre > Víctima sangrante > Víctima ebria.
+  
+  ![Resultados del estudio de Piliavin y Piliavin (1972).](imagenes/figura66.png "Resultados del estudio de Piliavin y Piliavin (1972).")
+
 
 #### **Víctima ebria (1969):**
 - En un estudio previo, una víctima ebria recibió menos ayuda que una víctima sangrante.  
 - **Conclusión:**  
   - La sangre implica mayor gravedad, aumentando el coste de no ayudar, lo que fomenta la intervención en comparación con la embriaguez.
 
+  ![Diagrama del análisis costes - beneficios](imagenes/tabla63.png "Diagrama del análisis costes - beneficios")
 
 
 #### Factores adicionales que influyen en la decisión de ayudar
 
-Aunque el **Modelo de Activación y Coste-Recompensa** predice que las personas ayudarán cuando los beneficios superan los costes, investigaciones recientes muestran que, en situaciones altamente peligrosas (alto coste para la víctima), las personas están dispuestas a ayudar incluso si esto conlleva **costes altos** para ellas mismas.
+Aunque el **Modelo de Activación y Coste  -Recompensa** predice que las personas ayudarán cuando los beneficios superan los costes, investigaciones recientes muestran que, en situaciones altamente peligrosas (alto coste para la víctima), las personas están dispuestas a ayudar incluso si esto conlleva **costes altos** para ellas mismas.
 
 
 
@@ -577,19 +607,19 @@ Aunque el **Modelo de Activación y Coste-Recompensa** predice que las personas 
 #### **Experimento: Acoso sexual (Fischer et al., 2006)**
 
 **Diseño:**
-- Se manipularon los niveles de **peligrosidad** (costes) en un caso de acoso sexual en dos condiciones:
-  1. **Baja peligrosidad:** Hombre bajo y delgado.
-  2. **Alta peligrosidad:** Hombre alto y fuerte.
-- Participantes: Solos vs. acompañados por cómplices.
+- Se manipularon los niveles de **peligrosidad** (costes) en un caso de acoso sexual en dos condiciones:  
+  1. **Baja peligrosidad:** Hombre bajo y delgado.  
+  2. **Alta peligrosidad:** Hombre alto y fuerte.  
+- Participantes: Solos vs. acompañados por cómplices.  
 
 **Resultados:**
-- **Baja peligrosidad (bajo coste):**
-  - **50%** de los participantes ayudaron estando solos.
-  - **5.9%** ayudaron estando acompañados (**efecto espectador**).
-- **Alta peligrosidad (alto coste):**
-  - **44%** ayudaron estando solos.
-  - **40%** ayudaron estando acompañados.
-
+- **Baja peligrosidad (bajo coste):**  
+  - **50%** de los participantes ayudaron estando solos.  
+  - **5.9%** ayudaron estando acompañados (**efecto espectador**).  
+- **Alta peligrosidad (alto coste):**  
+  - **44%** ayudaron estando solos.  
+  - **40%** ayudaron estando acompañados.  
+  
 **Conclusión:**  
 En situaciones de alta peligrosidad, el efecto espectador se reduce significativamente, y las tasas de ayuda son similares entre estar solo o acompañado.
 
@@ -597,28 +627,28 @@ En situaciones de alta peligrosidad, el efecto espectador se reduce significativ
 
 #### **Experimento: Robo de bicicletas (Fischer y Greitmeyer, 2013)**
 
-**Diseño:**
-- Se simuló el robo de una bicicleta en una gran ciudad, manipulando el aspecto del ladrón:
-  1. **Bajo coste:** Ladrón vestido con traje y corbata.
-  2. **Alto coste:** Ladrón con aspecto feroz y vaqueros rotos.
-- Participantes: Solos vs. en presencia de otros.
+**Diseño:**  
+- Se simuló el robo de una bicicleta en una gran ciudad, manipulando el aspecto del ladrón:  
+  1. **Bajo coste:** Ladrón vestido con traje y corbata.  
+  2. **Alto coste:** Ladrón con aspecto feroz y vaqueros rotos.  
+- Participantes: Solos vs. en presencia de otros.  
 
-**Resultados:**
-- Mayor disposición a intervenir en presencia de un espectador en situaciones de **alto coste** (gran peligro para la víctima).
-- En situaciones de **bajo coste**, se observó mayor prevalencia del efecto espectador.
+**Resultados:**  
+- Mayor disposición a intervenir en presencia de un espectador en situaciones de **alto coste** (gran peligro para la víctima).  
+- En situaciones de **bajo coste**, se observó mayor prevalencia del efecto espectador.  
 
-**Conclusión:**  
+**Conclusión:**    
 Cuando los **costes de no ayudar son extremadamente altos** (gran peligro para la víctima y el donante), el efecto espectador disminuye o se elimina.
 
 
 
 #### Factores adicionales que influyen en la ayuda
 
-1. **Efecto del alcohol:**  
-   - El consumo de alcohol puede favorecer el comportamiento prosocial porque desinhibe las conductas y reduce el efecto inhibidor de los costes anticipados, como el temor a consecuencias negativas.
+1. **Efecto del alcohol:**    
+   - El consumo de alcohol puede favorecer el comportamiento prosocial porque desinhibe las conductas y reduce el efecto inhibidor de los costes anticipados, como el temor a consecuencias negativas.  
 
-2. **Conocer personalmente a la víctima:**  
-   - Si el donante conoce a la víctima o anticipa futuras interacciones con ella, aumenta la probabilidad de prestar ayuda.
+2. **Conocer personalmente a la víctima:**    
+   - Si el donante conoce a la víctima o anticipa futuras interacciones con ella, aumenta la probabilidad de prestar ayuda.  
 
 
 
@@ -627,78 +657,75 @@ Cuando los **costes de no ayudar son extremadamente altos** (gran peligro para l
 Estos estudios destacan que el análisis de costes y recompensas, aunque útil, no es suficiente para predecir completamente si una persona ayudará en una situación de emergencia. Factores como el nivel de peligrosidad, el efecto del alcohol, y la relación con la víctima desempeñan un papel crucial en la toma de decisiones.
 
 
-
-
 #### Características de la víctima
 
 En situaciones de emergencia, la percepción del donante sobre la víctima puede influir significativamente en la probabilidad de que se preste ayuda. Factores como el atractivo físico, la similitud percibida, y la pertenencia a grupos estigmatizados pueden alterar el equilibrio entre costes y recompensas, e incluso reducir el efecto espectador.
 
 
-
-#### 1. **Atractivo físico de la víctima**
-- Es más probable que se ayude a una víctima percibida como **atractiva**, independientemente del tipo de ayuda solicitada (favor pequeño o grande).  
-  - El atractivo puede estar relacionado con la nacionalidad, personalidad o estilo de vestir.
-
+#### 1. **Atractivo físico de la víctima**  
+- Es más probable que se ayude a una víctima percibida como **atractiva**, independientemente del tipo de ayuda solicitada (favor pequeño o grande).    
+  - El atractivo puede estar relacionado con la nacionalidad, personalidad o estilo de vestir.  
 
 
-#### 2. **Similitud percibida entre el donante y la víctima**
-- La similitud aumenta la probabilidad de ayuda, ya que:
-  - Promueve mayor atracción interpersonal.
-  - Genera una conexión emocional más fuerte.
-  - Reduce la sensación de amenaza porque se perciben valores, intereses y creencias compartidos.
+#### 2. **Similitud percibida entre el donante y la víctima**  
+- La similitud aumenta la probabilidad de ayuda, ya que:  
+  - Promueve mayor atracción interpersonal.  
+  - Genera una conexión emocional más fuerte.  
+  - Reduce la sensación de amenaza porque se perciben valores, intereses y creencias compartidos.  
 
-**Experimento:**  
-- Se envió un correo electrónico invitando a responder una encuesta, manipulando si el remitente y el receptor compartían el mismo apellido.  
-- **Resultados:**  
-  - Mayor tasa y rapidez de respuesta en la condición de mismo apellido.
+**Experimento:**    
+- Se envió un correo electrónico invitando a respon der una encuesta, manipulando si el remitente y el receptor compartían el mismo apellido.  
+- **Resultados:**    
+  - Mayor tasa y rapidez de respuesta en la condición de mismo apellido.  
 
-**Efecto contrario:**
-- En algunos casos, la similitud puede aumentar la **culpabilización de la víctima**, especialmente si se percibe que su sufrimiento se debe a causas internas y controlables.  
-  - **Ejemplo:**
-    - **Atribución interna + controlable:** "Él/ella se lo buscó." → Menor empatía.
-    - **Atribución externa + incontrolable:** "Fue un accidente." → Mayor empatía.
+**Efecto contrario:**  
+- En algunos casos, la similitud puede aumentar la **culpabilización de la víctima**, especialmente si se percibe que su sufrimiento se debe a causas internas y controlables.    
+  - **Ejemplo:**  
+    - **Atribución interna + controlable:** "Él/ella se lo buscó." → Menor empatía.  
+    - **Atribución externa + incontrolable:** "Fue un accidente." → Mayor empatía.  
 
-**Ciberacoso:**  
-- Las víctimas que revelan información personal (número de teléfono, fotos, experiencias íntimas) son más propensas a ser culpabilizadas si sufren ciberacoso, ya que su comportamiento se percibe como inadecuado o provocativo.
+**Ciberacoso:**    
+- Las víctimas que revelan información personal (número de teléfono, fotos, experiencias íntimas) son más propensas a ser culpabilizadas si sufren ciberacoso, ya que su comportamiento se percibe como inadecuado o provocativo. 
 
 
 
-#### 3. **Pertenencia a grupos estigmatizados**
-- **Orientación sexual:**  
-  - Las personas homosexuales tienen menos probabilidades de recibir ayuda.  
+#### 3. **Pertenencia a grupos estigmatizados**  
+- **Orientación sexual:**    
+  - Las personas homosexuales tienen menos probabilidades de recibir ayuda.    
 
-- **Etnia:**  
-  - Los estudios ofrecen resultados contradictorios:
-    - Algunos muestran que las personas blancas tienen menos probabilidad de ayudar a una persona negra.
-    - Otros sugieren lo contrario.  
+- **Etnia:**    
+  - Los estudios ofrecen resultados contradictorios:  
+    - Algunos muestran que las personas blancas tienen menos probabilidad de ayudar a una persona negra  
+    - Otros sugieren lo contrario.    
 
-**Racismo aversivo:**  
-- Las personas con actitudes racistas aversivas (que no desean ser vistas como racistas) pueden discriminar menos si están solas, ya que discriminar abiertamente amenaza su autoimagen.  
-  - Si están en presencia de otros, podrían justificar no ayudar basándose en razones ajenas a la etnia (e.g., "otra persona ayudará").
+**Racismo aversivo:**    
+- Las personas con actitudes racistas aversivas (que no desean ser vistas como racistas) pueden discriminar menos si están solas, ya que discriminar abiertamente amenaza su autoimagen.    
+  - Si están en presencia de otros, podrían justificar no ayudar basándose en razones ajenas a la etnia (e.g., "otra persona ayudará").  
+ 
+**Experimento: Racismo aversivo (Gaertner y Dovidio, 1977):**    
+- Los participantes escucharon un accidente muy grave, manipulando:  
+  - La etnia de la víctima (mujer blanca vs. mujer negra).  
+  - Si los participantes estaban solos o acompañados.    
+- **Resultados:**    
+  - Cuando estaban solos, ayudaron más a la víctima negra.    
+  - Cuando estaban acompañados, ayudaron más a la víctima blanca.  
 
-**Experimento: Racismo aversivo (Gaertner y Dovidio, 1977):**  
-- Los participantes escucharon un accidente muy grave, manipulando:
-  - La etnia de la víctima (mujer blanca vs. mujer negra).
-  - Si los participantes estaban solos o acompañados.  
-- **Resultados:**  
-  - Cuando estaban solos, ayudaron más a la víctima negra.  
-  - Cuando estaban acompañados, ayudaron más a la víctima blanca.
+
+![ Racismo aversivo (Gaertner y Dovidio, 1977)](imagenes/figura67.png " Racismo aversivo (Gaertner y Dovidio, 1977)")
 
 
+# 4. ¿Por qué ayudamos? Motivos del comportamiento prosocial  
+  
+Los investigadores psicosociales identifican tres mecanismos principales que promueven la conducta de ayuda:  
+  
+1. **Afecto:**    
+   - Las emociones positivas y negativas pueden influir en la probabilidad de prestar ayuda.  
 
-# 4. ¿Por qué ayudamos? Motivos del comportamiento prosocial
-
-Los investigadores psicosociales identifican tres mecanismos principales que promueven la conducta de ayuda:
-
-1. **Afecto:**  
-   - Las emociones positivas y negativas pueden influir en la probabilidad de prestar ayuda.
-
-2. **Normas sociales y personales:**  
-   - Las expectativas culturales y los valores individuales fomentan o inhiben el comportamiento prosocial.
-
-3. **Aprendizaje social:**  
-   - La imitación de modelos y la observación de conductas prosociales en otros pueden motivar a ayudar.
-
+2. **Normas sociales y personales:**    
+   - Las expectativas culturales y los valores individuales fomentan o inhiben el comportamiento prosocial.  
+  
+3. **Aprendizaje social:**    
+   - La imitación de modelos y la observación de conductas prosociales en otros pueden motivar a ayudar.  
 
 
 
@@ -708,17 +735,17 @@ Cuando observamos que una persona está sufriendo, experimentamos estados emocio
 
 
 
-#### 1. **Malestar personal**
-- Asociado a sentimientos de **angustia**, **miedo**, **ansiedad** o **tristeza** provocados por observar el sufrimiento de otra persona.  
-- La ayuda en este caso tiene como objetivo **reducir nuestro propio malestar**.  
-  - **Motivación:** Egoísta.  
+#### 1. **Malestar personal**  
+- Asociado a sentimientos de **angustia**, **miedo**, **ansiedad** o **tristeza** provocados por observar el sufrimiento de otra persona.    
+- La ayuda en este caso tiene como objetivo **reducir nuestro propio malestar**.    
+  - **Motivación:** Egoísta.    
 
 
 
-#### 2. **Preocupación empática**
-- Asociada a sentimientos de **compasión** y **preocupación por el otro**.  
-- La motivación principal es **restaurar el bienestar de la víctima**, sin buscar aliviar nuestro propio estado emocional.  
-  - **Motivación:** Altruista.
+#### 2. **Preocupación empática**  
+- Asociada a sentimientos de **compasión** y **preocupación por el otro**.    
+- La motivación principal es **restaurar el bienestar de la víctima**, sin buscar aliviar nuestro propio estado emocional.    
+  - **Motivación:** Altruista.  
 
 
 
@@ -732,33 +759,35 @@ Este comportamiento está fundamentado en **motivos egoístas**, ya que el objet
 
 #### Teorías sobre la motivación egoísta del comportamiento prosocial
 
-1. **El modelo de la activación y coste-recompensa.**
-2. **La hipótesis del alivio del estado negativo.**
-3. **La hipótesis del mantenimiento del estado de ánimo.**
+1. **El modelo de la activación y coste  -recompensa.**  
+2. **La hipótesis del alivio del estado negativo.**  
+3. **La hipótesis del mantenimiento del estado de ánimo.**  
 
 
 
-#### 1. **El modelo de la activación y coste-recompensa**
 
-- **Presenciar sufrimiento ajeno** genera una activación empática (e.g., alteración, angustia) que es desagradable.  
-- Si atribuimos esta activación al sufrimiento de la víctima, nos sentimos motivados a actuar para reducirla.  
+
+#### 1. **El modelo de la activación y coste  -recompensa**
+
+- **Presenciar sufrimiento ajeno** genera una activación empática (e.g., alteración, angustia) que es desagradable.    
+- Si atribuimos esta activación al sufrimiento de la víctima, nos sentimos motivados a actuar para reducirla.    
 - Antes de actuar, realizamos un **análisis de costes y recompensas**, que determina si ayudamos o no.  
 
-**Proceso:**
-1. Activación desagradable → 2. Atribución al sufrimiento ajeno → 3. Análisis costes/recompensas → 4. Acción.  
+**Proceso:**  
+1. Activación desagradable → 2. Atribución al sufrimiento ajeno → 3. Análisis costes/recompensas → 4. Acción.    
 
-**Motivación:** Egoísta, ya que el objetivo principal es reducir nuestro estado fisiológico aversivo de forma rápida y con el menor coste posible.  
+**Motivación:** Egoísta, ya que el objetivo principal es reducir nuestro estado fisiológico aversivo de forma rápida y con el menor coste posible.    
 - Si no atribuimos la activación al sufrimiento de la víctima o si podemos evitar la situación fácilmente, es probable que no ayudemos.  
 
 
 
 #### 2. **La hipótesis del alivio del estado negativo**
 
-- Presenciar el sufrimiento ajeno genera un **estado de ánimo negativo** (culpa, tristeza, angustia), lo que puede motivarnos a ayudar.  
-- Ayudar resulta reconfortante, ya que puede mejorar nuestra autoestima y sentimientos de integridad personal.  
+- Presenciar el sufrimiento ajeno genera un **estado de ánimo negativo** (culpa, tristeza, angustia), lo que puede motivarnos a ayudar.    
+- Ayudar resulta reconfortante, ya que puede mejorar nuestra autoestima y sentimientos de integridad personal.    
 
-**Motivación:** Egoísta, ya que el objetivo es aliviar nuestro estado negativo, no el sufrimiento de la víctima.  
-- Si existen otras formas de mejorar nuestro estado de ánimo (e.g., recibir elogios o escuchar algo cómico), es probable que no ayudemos.
+**Motivación:** Egoísta, ya que el objetivo es aliviar nuestro estado negativo, no el sufrimiento de la víctima.    
+- Si existen otras formas de mejorar nuestro estado de ánimo (e.g., recibir elogios o escuchar algo cómico), es probable que no ayudemos.  
 
 
 
@@ -766,7 +795,7 @@ Este comportamiento está fundamentado en **motivos egoístas**, ya que el objet
 
 | **Teoría**                | **Mecanismo principal**                           | **Motivación**                                   | **Condición para ayudar**                       |
 |---------------------------|---------------------------------------------------|-------------------------------------------------|------------------------------------------------|
-| **Coste-recompensa**       | Activación empática + atribución al sufrimiento de la víctima. | Reducir la activación desagradable (egoísta).    | Sólo si la activación se atribuye exclusivamente al sufrimiento de la víctima. |
+| **Coste  -recompensa**       | Activación empática + atribución al sufrimiento de la víctima. | Reducir la activación desagradable (egoísta).    | Sólo si la activación se atribuye exclusivamente al sufrimiento de la víctima. |
 | **Alivio del estado negativo** | Estado emocional negativo del observador (culpa, tristeza). | Mejorar el estado de ánimo personal (egoísta).   | Independientemente de la atribución al sufrimiento de la víctima. Si hay otra forma de mejorar el estado de ánimo, no se ayuda. |
 
 
@@ -780,15 +809,15 @@ Aunque ambas teorías explican la ayuda desde una perspectiva egoísta, destacan
 
 El comportamiento de ayuda también puede estar motivado por el deseo de **mantener un estado de ánimo positivo**. Cuando estamos de buen humor, aumentamos la atención hacia nuestros sentimientos y valores, lo que incrementa nuestra predisposición a ayudar.
 
-**Factores que favorecen la ayuda en estados de ánimo positivos:**
-- Escuchar música alegre.
-- Encontrar una pequeña cantidad de dinero.
-- Ser recibidos con una sonrisa de la persona necesitada.
-- Recibir una recompensa monetaria.
+**Factores que favorecen la ayuda en estados de ánimo positivos:**  
+- Escuchar música alegre.  
+- Encontrar una pequeña cantidad de dinero.  
+- Ser recibidos con una sonrisa de la persona necesitada.  
+- Recibir una recompensa monetaria.  
 
-**Limitaciones:**
-- La ayuda disminuye si la conducta es **difícil o desagradable**, ya que podría amenazar el buen estado de ánimo.
-- **Motivación:** Egoísta, ya que el objetivo principal es mantener el bienestar emocional propio.
+**Limitaciones:**  
+- La ayuda disminuye si la conducta es **difícil o desagradable**, ya que podría amenazar el buen estado de ánimo.  
+- **Motivación:** Egoísta, ya que el objetivo principal es mantener el bienestar emocional propio.  
 
 
 
@@ -796,27 +825,27 @@ El comportamiento de ayuda también puede estar motivado por el deseo de **mante
 
 El altruismo se define como un estado motivacional cuyo objetivo es **aumentar el bienestar de otra persona**, no el propio. En este contexto, la **preocupación empática** se entiende como una respuesta emocional que incluye sentimientos como **pena**, **compasión** y **angustia**, congruentes con el bienestar percibido de una persona necesitada.
 
-**Proceso motivacional:**
-1. Ver sufrir a alguien →  
+**Proceso motivacional:**  
+1. Ver sufrir a alguien →    
 2. Sentir pena y compasión (**preocupación empática**) →  
-3. Actuar para reducir el malestar de la víctima.
+3. Actuar para reducir el malestar de la víctima.  
 
-**Cálculo hedónico del altruismo:**
-- Ayudarán si perciben que:
-  - Pueden ayudar efectivamente.
-  - Su ayuda beneficiará a la víctima.
-  - Su ayuda será más útil que la de otra persona.
+**Cálculo hedónico del altruismo:**  
+- Ayudarán si perciben que:  
+  - Pueden ayudar efectivamente.  
+  - Su ayuda beneficiará a la víctima.  
+  - Su ayuda será más útil que la de otra persona.  
 
 
 
 #### Experimento: Preocupación empática (Schröeder et al., 1988)
 
 **Objetivo:** Determinar si la preocupación empática genera motivación altruista o egoísta.  
-
-**Condiciones manipuladas:**
-1. **Motivación altruista:** Imaginar los sentimientos de la víctima (**preocupación empática**).  
-2. **Motivación egoísta:** Observar las reacciones de la víctima (**angustia personal**).  
-3. Facilidad de evitar ayudar: **Escape fácil** vs. **escape difícil**.  
+ 
+**Condiciones manipuladas:**  
+1. **Motivación altruista:** Imaginar los sentimientos de la víctima (**preocupación empática**).    
+2. **Motivación egoísta:** Observar las reacciones de la víctima (**angustia personal**).    
+3. Facilidad de evitar ayudar: **Escape fácil** vs. **escape difícil**.    
 
 **Resultados:**
 - Participantes en la condición de **angustia personal** y **escape fácil** ayudaron menos que los de las otras condiciones.
@@ -861,6 +890,8 @@ La forma en que interpretamos nuestras emociones ante el sufrimiento de una víc
 - Independientemente de la motivación, el comportamiento siempre es prosocial y beneficia a la persona necesitada.
 
 
+![Rutas que puede seguir el potencial donante de la ayuda](imagenes/figura68.png "Rutas que puede seguir el potencial donante de la ayuda")
+
 
 #### Las normas prosociales como motivo: Ayudar porque es lo correcto
 
@@ -900,16 +931,16 @@ A través del proceso de **socialización**, aprendemos normas sociales y desarr
 #### Limitaciones de la norma de responsabilidad social
 
 No siempre ayudamos a todos los que están en problemas. Esta norma deja de tener efecto si percibimos que la persona que necesita ayuda es **responsable de su propia situación**, ya sea porque:
-- **No se ha esforzado lo suficiente.**
-- **Ha realizado conductas que consideramos inmorales.**
+- **No se ha esforzado lo suficiente.**  
+- **Ha realizado conductas que consideramos inmorales.**  
 
-**Efecto de las atribuciones:**
-- **Atribución externa (causas ajenas a la víctima):**  
-  - **↑ Ayuda.**  
-  - Ejemplo: Ayudar a alguien que sufrió un accidente por un evento fortuito.  
-- **Atribución interna (causas bajo el control de la víctima):**  
-  - **↓ Ayuda.**  
-  - Ejemplo: No ayudar a alguien que perdió dinero en apuestas.
+**Efecto de las atribuciones:**  
+- **Atribución externa (causas ajenas a la víctima):**    
+  - **↑ Ayuda.**     
+  - Ejemplo: Ayudar a alguien que sufrió un accidente por un evento fortuito.    
+- **Atribución interna (causas bajo el control de la víctima):**    
+  - **↓ Ayuda.**    
+  - Ejemplo: No ayudar a alguien que perdió dinero en apuestas.   
 
 
 
@@ -972,7 +1003,7 @@ Schwartz propone cuatro fases para explicar cómo se activa la motivación para 
    - Surge un sentimiento de **obligación moral**, ya sea basado en una norma personal existente o construyendo una nueva norma para la situación.
 
 3. **Defensa:**
-   - Se realiza un análisis **coste-beneficio**:
+   - Se realiza un análisis **coste  -beneficio**:
      - Si **costes > beneficios**, la responsabilidad de actuar puede quedar desactivada.
      - Si los **resultados del análisis superan la obligación moral**, la persona podría **buscar excusas** para no actuar.
 
@@ -980,10 +1011,13 @@ Schwartz propone cuatro fases para explicar cómo se activa la motivación para 
    - Finalmente, la persona decide si ayuda o no.
 
 
+![Fases del modelo de activación de normas (Schwartz, 1973).](imagenes/figura69.png "Fases del modelo de activación de normas (Schwartz, 1973).")
+
+
 
 #### Reflexión sobre las normas prosociales
 
-Las normas sociales y personales desempeñan un papel crucial en la conducta prosocial. Si bien las normas sociales generan expectativas colectivas, las normas personales reflejan una obligación interna que puede variar de una persona a otra. Ambas interactúan para determinar si alguien ayuda en una situación determinada, dependiendo de factores como la percepción de justicia, las atribuciones de responsabilidad y el análisis coste-beneficio.
+Las normas sociales y personales desempeñan un papel crucial en la conducta prosocial. Si bien las normas sociales generan expectativas colectivas, las normas personales reflejan una obligación interna que puede variar de una persona a otra. Ambas interactúan para determinar si alguien ayuda en una situación determinada, dependiendo de factores como la percepción de justicia, las atribuciones de responsabilidad y el análisis coste  -beneficio.
 
 
 
@@ -1110,9 +1144,9 @@ La **gratitud** es definida por Wood et al. (2008) como un afecto positivo que s
 
 #### Consecuencias negativas de recibir ayuda: Dependencia y amenaza a la autoestima
 
-**Recibir ayuda** puede ser percibido como una amenaza para la autoestima del receptor, especialmente si:
-1. **Conflicto con la autosuficiencia:**  
-   - Dependencia de otro puede hacer que la persona se sienta menos competente en comparación con el donante (estatus más bajo).
+**Recibir ayuda** puede ser percibido como una amenaza para la autoestima del receptor, especialmente si:  
+1. **Conflicto con la autosuficiencia:**    
+   - Dependencia de otro puede hacer que la persona se sienta menos competente en comparación con el donante (estatus más bajo).  
    - Temor al rechazo de una petición de ayuda.
 
 2. **Impacto en grupos específicos:**
@@ -1292,6 +1326,58 @@ La ayuda intergrupal puede servir tanto para consolidar como para desafiar las r
 
 
 
+# Glosario detallado de términos sobre la conducta de ayuda
+
+Este glosario presenta las definiciones de términos clave relacionados con la conducta de ayuda y el comportamiento prosocial, basándose en la información proporcionada en las fuentes.
+
+#### Tipos de comportamiento prosocial
+
+* **Conducta prosocial:** Una amplia categoría de actos definidos culturalmente como beneficiosos para otras personas y para la sociedad.  No se requiere que el objetivo sea el bienestar propio, sino la aprobación de los demás.
+* **Conducta de ayuda:** Conducta que beneficia o mejora el bienestar de otra persona. Debe beneficiar a otros intencionalmente y ser voluntaria. 
+* **Altruismo:**  Comportamiento voluntario e intencionado motivado por la preocupación por los demás, cuyo fin es beneficiar a otros sin considerar recompensas ni costes personales.
+* **Coraje civil o moral:** Defensa pública de valores y normas morales, incluso con consecuencias sociales negativas.
+* **Cooperación:** Dos o más personas trabajando interdependientemente hacia un objetivo común que beneficia a todos.
+* **Whistleblowing:** Denunciar delitos, peligros o fraudes silenciados dentro de un grupo.
+
+#### Factores que influyen en la conducta de ayuda
+
+* **Determinantes situacionales:** Características del contexto que facilitan o inhiben la ayuda.
+    * **Efecto espectador:** La probabilidad de ayudar disminuye a medida que aumenta el número de espectadores presentes.
+    * **Ignorancia pluralista:**  La falta de acción colectiva se basa en la suposición de que si los demás no reaccionan, la situación no es peligrosa.
+    * **Difusión de la responsabilidad:** A mayor número de personas, menor responsabilidad individual para intervenir.
+    * **Presión temporal:**  Limita los recursos cognitivos y disminuye la percepción de eventos anómalos.
+    * **Sobrecarga sensorial:** Dificulta la percepción de situaciones inusuales, especialmente en entornos urbanos.
+    * **Estado de ánimo:** Influye en la capacidad para percibir situaciones anómalas. 
+* **Determinantes disposicionales:** Rasgos de personalidad del individuo que influyen en su disposición a ayudar.
+    * **Amabilidad:** Simpatía, generosidad, perdón y ayuda. 
+    * **Honestidad-humildad:**  Sinceridad, honestidad e imparcialidad.
+    * **Empatía disposicional:** Tendencia a realizar conductas de ayuda.
+    * **Responsabilidad social:** Preocupación por el bienestar de los demás.
+
+#### Modelos teóricos
+
+* **Modelo de intervención en emergencias (Latané y Darley):** Describe las cinco fases críticas para la intervención en una emergencia.
+* **Modelo de Activación y Coste-Recompensa (Piliavin et al.):** Plantea que el comportamiento humano busca maximizar recompensas y reducir costes al ayudar.
+* **Teoría de la activación de las normas (Schwartz):** Explica cómo se activa la motivación para ayudar a través de normas personales.
+* **Modelo de ayuda intergrupal como relaciones de estatus (Nadler et al.):** Analiza cómo las dinámicas de ayuda entre grupos están influenciadas por las percepciones de estatus.
+
+#### Motivaciones del comportamiento prosocial
+
+* **Motivación egoísta:** El objetivo principal es el bienestar del donante (reducir malestar, mejorar estado de ánimo).
+* **Motivación altruista:** El objetivo principal es el bienestar del receptor (aliviar su sufrimiento).
+* **Normas sociales:** Expectativas culturales que fomentan o inhiben la conducta prosocial (responsabilidad social, reciprocidad, equidad).
+* **Normas personales:** Sentimientos de obligación interna que motivan la conducta prosocial.
+* **Gratitud:**  Afecto positivo que surge al recibir ayuda y motiva a la reciprocidad.
+* **Empatía:**  Respuesta emocional que incluye pena, compasión y angustia ante el sufrimiento de otro.
+
+#### Otros conceptos relevantes
+
+* **Racismo aversivo:** Discriminación sutil por parte de personas que no desean ser vistas como racistas.
+* **Desvanecimiento de la compasión:** Menor empatía y ayuda cuando se presenta información sobre un gran número de víctimas.
+* **Ayuda orientada a la autonomía vs. dependencia:**  Diferencia en el tipo de ayuda que se ofrece y su impacto en la autoestima del receptor.
+* **Favoritismo endogrupal:** Tendencia a ayudar preferentemente a miembros del propio grupo.
+
+Este glosario busca facilitar la comprensión de los conceptos clave relacionados con la conducta de ayuda. Para profundizar en cada uno de estos temas, se recomienda consultar las fuentes originales.
 
 
 
